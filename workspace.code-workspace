@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Server",
+			"path": "mystery"
+		},
+		{
+			"name": "Client",
+			"path": "mysteryc"
+		}
+	],
+	"settings": {}
+}
